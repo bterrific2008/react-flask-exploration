@@ -1,3 +1,7 @@
+# React Flask Exploration
+
+Exploring how to use React and Flask. Using boilerplate code by dternyak, which can be found [here](https://github.com/dternyak/React-Redux-Flask).
+
 # React-Redux-Flask #
 
 Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
